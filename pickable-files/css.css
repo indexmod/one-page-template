@@ -9,7 +9,7 @@
 .img-line {
 	cursor:pointer;
 	position: absolute;
-	left: 60px;
+	left: 500px;
 	top: 500px;
 	z-index:1;
 }
@@ -17,15 +17,15 @@
 .img-text {
 	cursor:pointer;
 	position: absolute;
-	left: 500px;
-	top: 200px;
+	left: 100px;
+	top: 300px;
 	z-index:2
 }
 
 .img-like {
 	cursor:pointer;
 	position: absolute;
-	left: 200px;
+	left: 100px;
 	top: 500px;
 	z-index:3;
 }
