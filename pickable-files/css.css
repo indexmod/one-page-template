@@ -21,3 +21,11 @@
 	top: 200px;
 	z-index:2
 }
+
+.img-like {
+	cursor:pointer;
+	position: absolute;
+	left: 200px;
+	top: 500px;
+	z-index:3;
+}
