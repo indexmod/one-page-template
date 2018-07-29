@@ -6,14 +6,6 @@
 	z-index:4;
 }
 
-.img-bug {
-	cursor:pointer;
-	position: absolute;
-	left: 100px;
-	top: 800px;
-	z-index:3;
-}
-
 .img-text {
 	cursor:pointer;
 	position: absolute;
@@ -36,4 +28,12 @@
 	left: 1000px;
 	top: 25px;
 	z-index:7;
+}
+
+.img-bug {
+	cursor:pointer;
+	position: absolute;
+	left: 100px;
+	top: 1000px;
+	z-index:8;
 }
