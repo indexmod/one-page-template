@@ -9,7 +9,7 @@
 .img-bug {
 	cursor:pointer;
 	position: absolute;
-	left: 800px;
+	left: 100px;
 	top: 800px;
 	z-index:3;
 }
@@ -33,7 +33,7 @@
 .img-abonent {
 	cursor:pointer;
 	position: absolute;
-	left: 900px;
+	left: 1000px;
 	top: 25px;
 	z-index:7;
 }
