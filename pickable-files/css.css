@@ -2,7 +2,7 @@
 	cursor:pointer;
 	position: absolute;
 	left: 100px;
-	top: 50px;
+	top: 25px;
 	z-index:4;
 }
 
@@ -28,4 +28,12 @@
 	left: 100px;
 	top: 600px;
 	z-index:6;
+}
+
+.img-abonent {
+	cursor:pointer;
+	position: absolute;
+	left: 900px;
+	top: 25px;
+	z-index:7;
 }
