@@ -1,36 +1,24 @@
 body, html {
-    height: 100%;
-    margin: 0;
+	height: 100%;
+	margin: 0;
 }
-
 .bg {
-    /* The image used */
-    background-image: url("malelaptop.jpg");
-
-    /* Full height */
-    height: 100%;
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+	/* The image used */
+	background-image: url("malelaptop.jpg");
+	/* Full height */
+	height: 100%;
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
-  .img-audio
-
-  {
-margin-right: auto;
-margin-left: auto;
-    vertical-align: center;
-    horisontal-alighn: center;
+p {
+	width: 150px;
+	word-wrap: break-word;
+	margin: 5 5 5 5;
+	padding: 5 5 5 5;
+	font-family: Verdana;
+	font-size: 15;
+	color: black;
 }
-
-  p
-  {
-
-  margin: 5 5 5 5;
-    padding: 5 5 5 5;
-    font-family: Verdana;
-    font-size: 15;
-  color: black;
-  }
