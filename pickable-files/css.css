@@ -22,10 +22,10 @@
 	z-index:6;
 }
 
-.img-abonent {
+.img-window {
 	cursor:pointer;
 	position: absolute;
-	left: 1000px;
+	left: auto;
 	top: 25px;
 	z-index:7;
 }
@@ -34,6 +34,6 @@
 	cursor:pointer;
 	position: absolute;
 	left: 100px;
-	top: 1000px;
+	top: auto;
 	z-index:8;
 }
