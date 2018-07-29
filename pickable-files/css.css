@@ -1,4 +1,40 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
 
+.bg {
+    /* The image used */
+    background-image: url("malelaptop.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+  .au
+
+  {
+margin-right: auto;
+margin-left: auto;
+    vertical-align: center;
+    horisontal-alighn: center;
+}
+
+  p
+  {
+
+  margin: 5 5 5 5;
+    padding: 5 5 5 5;
+    font-family: Verdana;
+    font-size: 15;
+  color: black;
+  }
+	
 .img-sphere {
 	cursor:pointer;
 	position: absolute;
@@ -15,7 +51,7 @@
 	z-index:1;
 }
 
-.img-triangle { 
+.img-triangle {
 	cursor:pointer;
 	position: absolute;
 	left: 70px;
