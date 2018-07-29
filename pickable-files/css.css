@@ -3,7 +3,7 @@
 	position: absolute;
 	left: 100px;
 	top: 50px;
-	z-index:1;
+	z-index:4;
 }
 
 .img-bug {
@@ -11,7 +11,7 @@
 	position: absolute;
 	left: 800px;
 	top: 800px;
-	z-index:2;
+	z-index:3;
 }
 
 .img-text {
@@ -19,7 +19,7 @@
 	position: absolute;
 	left: 100px;
 	top: 150px;
-	z-index:4
+	z-index:5;
 }
 
 .img-like {
@@ -27,5 +27,5 @@
 	position: absolute;
 	left: 100px;
 	top: 600px;
-	z-index:4;
+	z-index:6;
 }
