@@ -1,8 +1,8 @@
-.img-sphere {
+.img-audio {
 	cursor:pointer;
 	position: absolute;
-	left: 50px;
-	top: 50px;
+	left: 100px;
+	top: 100px;
 	z-index:0
 }
 
@@ -10,14 +10,14 @@
 	cursor:pointer;
 	position: absolute;
 	left: 60px;
-	top: 60px;
+	top: 500px;
 	z-index:1;
 }
 
-.img-triangle {
+.img-text {
 	cursor:pointer;
 	position: absolute;
-	left: 70px;
-	top: 70px;
+	left: 500px;
+	top: 200px;
 	z-index:2
 }
