@@ -16,9 +16,9 @@ body, html {
 p {
 	width: 30%;
 	word-wrap: break-word;
-	margin: 1 1 1 1;
-	padding: 1 1 1 1;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
 	font-family: Verdana;
-	font-size: 18;
+	font-size: 17;
 	color: black;
 }
