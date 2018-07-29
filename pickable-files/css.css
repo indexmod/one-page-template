@@ -25,7 +25,7 @@
 .img-window {
 	cursor:pointer;
 	position: absolute;
-	left: 800;
+	left: 800px;
 	top: 25px;
 	z-index:7;
 }
@@ -34,6 +34,6 @@
 	cursor:pointer;
 	position: absolute;
 	left: 100px;
-	top: 800;
+	top: 800px;
 	z-index:8;
 }
