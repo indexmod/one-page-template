@@ -33,7 +33,7 @@
 .img-bug {
 	cursor:pointer;
 	position: absolute;
-	left: 100px;
-	top: 800px;
+	left: 500px;
+	top: 500px;
 	z-index:8;
 }
