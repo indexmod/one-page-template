@@ -2,30 +2,30 @@
 	cursor:pointer;
 	position: absolute;
 	left: 100px;
-	top: 100px;
-	z-index:0
+	top: 50px;
+	z-index:1;
 }
 
-.img-line {
+.img-bug {
 	cursor:pointer;
 	position: absolute;
 	left: 500px;
-	top: 500px;
-	z-index:1;
+	top: 50px;
+	z-index:2;
 }
 
 .img-text {
 	cursor:pointer;
 	position: absolute;
 	left: 100px;
-	top: 300px;
-	z-index:2
+	top: 150px;
+	z-index:4
 }
 
 .img-like {
 	cursor:pointer;
 	position: absolute;
 	left: 100px;
-	top: 500px;
-	z-index:3;
+	top: 600px;
+	z-index:4;
 }
