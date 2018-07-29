@@ -29,15 +29,30 @@
 	 xEnableDrag2('audio');
 	 xEnableDrag2('line');
 	 xEnableDrag2('text');
+	 xEnableDrag2('like');
 	}
 	</script>
 	<title></title>
 </head>
 <body>
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v3.1&appId=173711889938607&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 	<div class="bg">
 		<div class="img-audio" id="audio" ondblclick="window.open(&#39;https://www.facebook.com/deinichenkoandrei;);">
-			<audio autoplay="" controls=""><source src="melody.ogg" type="audio/ogg"> <source src="melody.mp3" type="audio/mpeg"> Your browser does not support the audio tag.</audio>
-			<div class="img-line" id="line" ondblclick="window.open(&#39;https://www.facebook.com/deinichenkoandrei;);"><img alt="Advanced Beauty - Animation" height="345" src="./pickable-files/line.gif" title="Double Click" width="342"></div>
+			<audio autoplay="" controls=""><source src="melody.ogg" type="audio/ogg"> <source src="melody.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio>
+			<div class="img-line" id="line" ondblclick="window.open(&#39;https://www.facebook.com/deinichenkoandrei;);"><img alt="Spiral" height="345" src="./pickable-files/line.gif" title="Double Click" width="342"></div>
+			
+			
+			<div class="img-like" id="like" ondblclick="window.open(&#39;https://www.facebook.com/deinichenkoandrei;);"><div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="100" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="false"></div></div>
+			
+			
+			
 			<div class="img-text" id="text" ondblclick="window.open(&#39;https://www.facebook.com/deinichenkoandrei;);">
 				<p>Быстрые лендинги из одного изображения или видео. Подходит для одной услуги или товара. Домены .tk .ml .ga .cf .gq и хостинг бесплатно. Стоимость 5000. Срок одни сутки. Андрей +79104644594; deinichenko.a@gmail.com</p>
 			</div>
