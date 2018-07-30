@@ -10,7 +10,7 @@
 	cursor:pointer;
 	position: absolute;
 	left: 100px;
-	top: 75px;
+	top: 100px;
 	z-index:2;
 }
 
@@ -18,15 +18,15 @@
 	cursor:pointer;
 	position: absolute;
 	left: 100px;
-	top: 475px;
+	top: 500px;
 	z-index:3;
 }
 
 .img-bug {
 	cursor:pointer;
 	position: absolute;
-	left: 500px;
-	top: 450px;
+	left: 650px;
+	top: 400px;
 	z-index:4;
 }
 
