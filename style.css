@@ -14,11 +14,11 @@ body, html {
 }
 
 p {
-	width: 300px;
+	width: 250px;
 	word-wrap: break-word;
 	margin: 0 0 0 0;
 	padding: 0 0 0 0;
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 14;
 	color: black;
 }
