@@ -17,8 +17,8 @@
 .img-like {
 	cursor:pointer;
 	position: absolute;
-	left: 100px;
-	top: 550px;
+	left: 650px;
+	top: 200px;
 	z-index:3;
 }
 
