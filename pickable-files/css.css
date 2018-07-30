@@ -33,7 +33,7 @@
 .img-window {
 	cursor:pointer;
 	position: absolute;
-	left: 800px;
+	left: 650px;
 	top: 25px;
 	z-index:5;
 }
