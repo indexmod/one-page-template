@@ -3,7 +3,7 @@
 	position: absolute;
 	left: 100px;
 	top: 25px;
-	z-index:4;
+	z-index:1;
 }
 
 .img-text {
@@ -11,7 +11,7 @@
 	position: absolute;
 	left: 100px;
 	top: 150px;
-	z-index:5;
+	z-index:2;
 }
 
 .img-like {
@@ -19,15 +19,7 @@
 	position: absolute;
 	left: 100px;
 	top: 400px;
-	z-index:6;
-}
-
-.img-window {
-	cursor:pointer;
-	position: absolute;
-	left: 800px;
-	top: 25px;
-	z-index:7;
+	z-index:3;
 }
 
 .img-bug {
@@ -35,5 +27,15 @@
 	position: absolute;
 	left: 500px;
 	top: 500px;
-	z-index:8;
+	z-index:4;
 }
+
+.img-window {
+	cursor:pointer;
+	position: absolute;
+	left: 800px;
+	top: 25px;
+	z-index:5;
+}
+
+
