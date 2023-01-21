@@ -1,2 +1,2 @@
 # One page site with animation test
-[see sample](http://g-o-s-h-a.ga/)
+[see sample](https://indexmod.github.io/one-page-template/)
